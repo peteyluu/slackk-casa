@@ -4,10 +4,6 @@
 
 ## Team
 
-* Andy Dam
-* Austin Shin
-* Chase Lee
-* Shawn Ranck
 * Christopher Chen
 * Connor Chen
 * Kayleigh Foley
